@@ -1,10 +1,7 @@
 {
   "version": "1.0.1",
-  "last_updated": "2026-06-05",
-  "files_included": [
-    "easylist.txt",
-    "easyprivacy.txt",
-    "malware.txt",
-    "ublock-filters.txt"
-  ]
+  "easylist": "https://cdn.jsdelivr.net/gh/ProjectArcade/Acrade-LykonShield-list@main/easylist.txt",
+  "easyprivacy": "https://cdn.jsdelivr.net/gh/ProjectArcade/Acrade-LykonShield-list@main/easyprivacy.txt",
+  "malware": "https://cdn.jsdelivr.net/gh/ProjectArcade/Acrade-LykonShield-list@main/malware.txt",
+  "ublock": "https://cdn.jsdelivr.net/gh/ProjectArcade/Acrade-LykonShield-list@main/ublock-filters.txt"
 }
