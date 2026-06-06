@@ -1,5 +1,14 @@
 {
   "version": "1.0.1",
+
+  "lykonshield_android": {
+    "latest_version": "1.0.9",
+    "min_supported_version": "1.0.6,
+    "max_supported_version": "1.0.10",
+    "force_update": true,
+    "update_url": ""
+  },
+
   "easylist": "https://cdn.jsdelivr.net/gh/ProjectArcade/Acrade-LykonShield-list@main/easylist.txt",
   "easyprivacy": "https://cdn.jsdelivr.net/gh/ProjectArcade/Acrade-LykonShield-list@main/easyprivacy.txt",
   "malware": "https://cdn.jsdelivr.net/gh/ProjectArcade/Acrade-LykonShield-list@main/malware.txt",
