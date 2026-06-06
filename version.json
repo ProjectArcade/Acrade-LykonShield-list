@@ -3,13 +3,13 @@
       
       "app_updates": {
         "android": {  
-          "latest_version": "1.0.9",
+          "latest_version": "1.0.",10
           "latest_version_code": 3, 
           
-          "min_supported_version": "1.0.6",
+          "min_supported_version": "1.0.10",
           "min_supported_version_code": 3, 
           
-          "max_supported_version": "1.0.9",
+          "max_supported_version": "1.0.10",
           "max_supported_version_code": 3, 
           
           "force_update": false,
