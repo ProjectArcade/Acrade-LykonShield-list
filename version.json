@@ -7,7 +7,7 @@
           "latest_version_code": 2, 
           
           "min_supported_version": "1.0.6",
-          "min_supported_version_code": 1, 
+          "min_supported_version_code": 3, 
           
           "max_supported_version": "1.0.9",
           "max_supported_version_code": 2, 
