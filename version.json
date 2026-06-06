@@ -1,25 +1,25 @@
 {
-  "app_updates": {
-    "android": {
-      "latest_version": "1.0.9",
-      "latest_version_code": 3,
-      "min_supported_version": "1.0.6",
-      "min_supported_version_code": 2,
-      "max_supported_version": "1.0.10",
-      "max_supported_version_code": 3,
-      "force_update": true,
-      "update_url": "",
-      "release_notes": "We've released critical security patches. You must update Lykon Shield to continue."
-    }
-  },
-  "adblock_engine": {
-    "list_version": "1.0.1",
-    "last_updated": "2026-06-07",
-    "sources": {
+      "list_version": "1.0.1",
+      
+      "app_updates": {
+        "android": {  
+          "latest_version": "1.0.9",
+          "latest_version_code": 2, 
+          
+          "min_supported_version": "1.0.6",
+          "min_supported_version_code": 2, 
+          
+          "max_supported_version": "1.0.9",
+          "max_supported_version_code": 3, 
+          
+          "force_update": false,
+          "update_url": "https://github.com/ProjectArcade/Acrade-LykonShield-Android/releases",
+          "release_notes": "A new update is available with improved ad-blocking filters and bug fixes."
+        }
+      },  
+         
       "easylist": "https://cdn.jsdelivr.net/gh/ProjectArcade/Acrade-LykonShield-list@main/easylist.txt",
       "easyprivacy": "https://cdn.jsdelivr.net/gh/ProjectArcade/Acrade-LykonShield-list@main/easyprivacy.txt",
-      "malware": "https://cdn.jsdelivr.net/gh/ProjectArcade/Acrade-LykonShield-list@main/malware.txt",
+      "malware": "https://cdn.jsdelivr.net/gh/ProjectArcade/Acrade-LykonShield-list@main/malware.txt",        
       "ublock": "https://cdn.jsdelivr.net/gh/ProjectArcade/Acrade-LykonShield-list@main/ublock-filters.txt"
     }
-  }
-}
