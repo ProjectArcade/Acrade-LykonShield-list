@@ -12,7 +12,7 @@
           "max_supported_version": "1.0.10",
           "max_supported_version_code": 3, 
           
-          "force_update": false,
+          "force_update": true,
           "update_url": "https://github.com/ProjectArcade/Acrade-LykonShield-Android/releases",
           "release_notes": "A new update is available with improved ad-blocking filters and bug fixes."
         }
