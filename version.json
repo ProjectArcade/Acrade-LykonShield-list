@@ -3,7 +3,7 @@
       
       "app_updates": {
         "android": {  
-          "latest_version": "1.0.",10
+          "latest_version": "1.0.10",
           "latest_version_code": 3, 
           
           "min_supported_version": "1.0.10",
